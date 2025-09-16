@@ -1,0 +1,15 @@
+c:\Users\Acer\OneDrive\Máy tính\CSLT\BT2\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\bin\Debug\net9.0\QuanLyChiTieuApp.exe
+c:\Users\Acer\OneDrive\Máy tính\CSLT\BT2\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\bin\Debug\net9.0\QuanLyChiTieuApp.deps.json
+c:\Users\Acer\OneDrive\Máy tính\CSLT\BT2\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\bin\Debug\net9.0\QuanLyChiTieuApp.runtimeconfig.json
+c:\Users\Acer\OneDrive\Máy tính\CSLT\BT2\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\bin\Debug\net9.0\QuanLyChiTieuApp.dll
+c:\Users\Acer\OneDrive\Máy tính\CSLT\BT2\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\bin\Debug\net9.0\QuanLyChiTieuApp.pdb
+c:\Users\Acer\OneDrive\Máy tính\CSLT\BT2\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\obj\Debug\net9.0\QuanLyChiTieuApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Acer\OneDrive\Máy tính\CSLT\BT2\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\obj\Debug\net9.0\QuanLyChiTieuApp.AssemblyInfoInputs.cache
+c:\Users\Acer\OneDrive\Máy tính\CSLT\BT2\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\obj\Debug\net9.0\QuanLyChiTieuApp.AssemblyInfo.cs
+c:\Users\Acer\OneDrive\Máy tính\CSLT\BT2\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\obj\Debug\net9.0\QuanLyChiTieuApp.csproj.CoreCompileInputs.cache
+c:\Users\Acer\OneDrive\Máy tính\CSLT\BT2\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\obj\Debug\net9.0\QuanLyChiTieuApp.sourcelink.json
+c:\Users\Acer\OneDrive\Máy tính\CSLT\BT2\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\obj\Debug\net9.0\QuanLyChiTieuApp.dll
+c:\Users\Acer\OneDrive\Máy tính\CSLT\BT2\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\obj\Debug\net9.0\refint\QuanLyChiTieuApp.dll
+c:\Users\Acer\OneDrive\Máy tính\CSLT\BT2\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\obj\Debug\net9.0\QuanLyChiTieuApp.pdb
+c:\Users\Acer\OneDrive\Máy tính\CSLT\BT2\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\obj\Debug\net9.0\QuanLyChiTieuApp.genruntimeconfig.cache
+c:\Users\Acer\OneDrive\Máy tính\CSLT\BT2\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\obj\Debug\net9.0\ref\QuanLyChiTieuApp.dll
