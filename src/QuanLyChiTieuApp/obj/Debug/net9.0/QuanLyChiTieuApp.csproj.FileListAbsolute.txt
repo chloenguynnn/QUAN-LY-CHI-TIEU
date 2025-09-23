@@ -13,3 +13,11 @@ c:\Users\Acer\OneDrive\Máy tính\CSLT\BT2\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp
 c:\Users\Acer\OneDrive\Máy tính\CSLT\BT2\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\obj\Debug\net9.0\QuanLyChiTieuApp.pdb
 c:\Users\Acer\OneDrive\Máy tính\CSLT\BT2\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\obj\Debug\net9.0\QuanLyChiTieuApp.genruntimeconfig.cache
 c:\Users\Acer\OneDrive\Máy tính\CSLT\BT2\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\obj\Debug\net9.0\ref\QuanLyChiTieuApp.dll
+C:\Users\DELL\OneDrive\Documents\GitHub\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\obj\Debug\net9.0\QuanLyChiTieuApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Documents\GitHub\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\obj\Debug\net9.0\QuanLyChiTieuApp.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Documents\GitHub\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\obj\Debug\net9.0\QuanLyChiTieuApp.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Documents\GitHub\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\obj\Debug\net9.0\QuanLyChiTieuApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Documents\GitHub\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\obj\Debug\net9.0\QuanLyChiTieuApp.sourcelink.json
+C:\Users\DELL\OneDrive\Documents\GitHub\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\obj\Debug\net9.0\QuanLyChiTieuApp.dll
+C:\Users\DELL\OneDrive\Documents\GitHub\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\obj\Debug\net9.0\refint\QuanLyChiTieuApp.dll
+C:\Users\DELL\OneDrive\Documents\GitHub\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\obj\Debug\net9.0\QuanLyChiTieuApp.pdb
