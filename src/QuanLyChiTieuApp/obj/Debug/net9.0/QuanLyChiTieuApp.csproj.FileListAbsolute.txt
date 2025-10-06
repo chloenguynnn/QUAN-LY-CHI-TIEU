@@ -28,3 +28,11 @@ C:\Users\HA NGUYEN THANH\Downloads\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\obj\Deb
 C:\Users\HA NGUYEN THANH\Downloads\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\obj\Debug\net9.0\QuanLyChiTieuApp.pdb
 C:\Users\HA NGUYEN THANH\Downloads\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\obj\Debug\net9.0\QuanLyChiTieuApp.genruntimeconfig.cache
 C:\Users\HA NGUYEN THANH\Downloads\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\obj\Debug\net9.0\ref\QuanLyChiTieuApp.dll
+D:\App cho lập trình\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\obj\Debug\net9.0\QuanLyChiTieuApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\App cho lập trình\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\obj\Debug\net9.0\QuanLyChiTieuApp.AssemblyInfoInputs.cache
+D:\App cho lập trình\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\obj\Debug\net9.0\QuanLyChiTieuApp.AssemblyInfo.cs
+D:\App cho lập trình\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\obj\Debug\net9.0\QuanLyChiTieuApp.csproj.CoreCompileInputs.cache
+D:\App cho lập trình\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\obj\Debug\net9.0\QuanLyChiTieuApp.sourcelink.json
+D:\App cho lập trình\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\obj\Debug\net9.0\QuanLyChiTieuApp.dll
+D:\App cho lập trình\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\obj\Debug\net9.0\refint\QuanLyChiTieuApp.dll
+D:\App cho lập trình\QUAN-LY-CHI-TIEU\src\QuanLyChiTieuApp\obj\Debug\net9.0\QuanLyChiTieuApp.pdb
